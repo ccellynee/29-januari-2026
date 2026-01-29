@@ -1,0 +1,43 @@
+/*selector tag html*/
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+
+h1 {
+    color: hotpink;
+    font-size: 30px;
+}
+
+p {
+    color: darkred;
+    text-transform: capitalize;
+    border-color: beige;
+}
+/*class selector*/  
+.bisque {
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.miring {
+    text-decoration: underline;
+}
+
+.blue {
+    color:chocolate;
+    background-color:cyan;
+    text-decoration: underline;
+}
+
+.font {
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid;
+    font-size: 25px;
+}
+    
+/*ID selector*/
+#huruf-besar {
+    text-transform: uppercase;
+    border: 2px solid;
+}
